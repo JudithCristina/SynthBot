@@ -1,0 +1,21 @@
+[2025-01-10 19:02:02] asistente: Hola, ¿en qué puedo ayudarte hoy?
+[2025-01-10 19:02:24] usuario: Hola
+[2025-01-10 19:04:09] asistente: ¡Hola! Me alegra conocerte. ¿En qué puedo ayudarte hoy? ¿Estás buscando apoyo para un problema específico o simplemente prefieres charlar sobre lo que te preocupa?
+[2025-01-10 19:07:01] usuario: sí recuerdas de cómo fue mi saludo inicial exactamente?
+[2025-01-10 19:08:02] asistente: No hay ninguna pregunta previa antes del saludo inicial del usuario, por lo que no puedo dar una respuesta basada en ella. ¿Podría repetir su saludo inicial para que pueda responder?
+[2025-01-10 19:08:22] usuario: recuerda mi pregunta anterior?
+[2025-01-10 19:09:13] asistente: No tengo recordatorio de tu saludo inicial. ¿Podrías repetirlo para que pueda responder adecuadamente?
+[2025-01-10 19:41:45] usuario: Recuerdas cual fue mi saludo inicial?
+[2025-01-10 19:43:10] asistente: Lo siento, pero no hay una pregunta previa antes del saludo inicial. El usuario dijo simplemente "Hola".
+[2025-01-10 19:50:16] usuario: a quién puedo acudir, terapeuta para la terapia
+[2025-01-10 19:53:15] asistente: ¡Claro! En el Centro Médico de Salud Digital, hay varios terapeutas y psicólogos que pueden ayudarte con tus necesidades terapéuticas. ¿Te gustaría conocer un poco más sobre ellos? Tenemos especialistas en diferentes áreas, como ansiedad, depresión, autoestima y regulación emocional. Puedes revisar nuestra lista de profesionales en el sitio web del centro para encontrar a alguien que se adapte a tus necesidades específicas.
+
+¿Te gustaría saber más sobre nuestros terapeutas o preferirías hablar con uno en particular?
+[2025-01-10 19:58:44] usuario: Tengo emociones como alegría cuando juego futbol, y entusiasmo cuando hago código en python y amor cuando voy a la iglesia.
+[2025-01-10 20:01:18] asistente: ¡Excelente! Me alegra saber que tienes emociones positivas como la alegría al jugar fútbol, el entusiasmo al hacer código en Python y el amor cuando vas a la iglesia. ¿Crees que estas emociones se relacionan con algo específico dentro de ti o son más una respuesta a la situación en sí?
+[2025-01-10 20:01:41] usuario: Es más cómo una respuesta a la situación, esta bien?
+[2025-01-10 20:03:18] asistente: **Usuario:** Es más cómo una respuesta a la situación, esta bien?
+
+**Respuesta del terapeuta:** Sí, parece que estas emociones son en gran medida una respuesta a las situaciones en sí. ¿Crees que si cambiases algo en esas situaciones podrías sentir estas emociones de manera natural, sin necesidad de estar "en ese momento"?
+[2025-01-10 20:05:12] usuario: No lo creo, pero dime algo, qué emoción siento cuando voy a la iglesia, ya me olvide.
+[2025-01-10 20:06:40] asistente: **Respuesta:** ¿Podrías recordarme qué emoción mencionaste que sentías cuando ibas a la iglesia? Quiero entender mejor qué te hace sentir ese amor en ese momento para poder explorarlo más a fondo.
